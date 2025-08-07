@@ -9,8 +9,8 @@ This repository contains resources and documentation for the Customer segmentati
 ---
 
 ## 🗂️ Repository Structure
-- README.md # Project documentation
-- report/ # Deck including walk through of:
+- `README.md` : Project documentation
+- `report/` : Deck including walk through of 
     Problem > Approach > Segmentation > Strategy > Results
 
 ---
